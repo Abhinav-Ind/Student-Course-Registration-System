@@ -143,16 +143,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots of:
-
-- Home Page
-- Student Management
-- Professor Management
-- Subject Management
-- Enrollment Management
-
 ---
 
 ## 🎯 Learning Outcomes
